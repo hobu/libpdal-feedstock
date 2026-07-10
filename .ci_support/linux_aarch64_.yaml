@@ -25,10 +25,10 @@ glog:
 hdf5:
 - 1.14.6
 libarrow:
-- '19.0'
-- '20.0'
 - '21.0'
 - '22.0'
+- '23.0'
+- '24.0'
 libblas:
 - 3.9.* *netlib
 libcblas:
@@ -36,9 +36,9 @@ libcblas:
 libcurl:
 - '8'
 libgdal_core:
-- '3.11'
+- '3.12'
 libpdal:
-- 2.9.2
+- '2.10'
 libpq:
 - '18'
 libxml2_devel:
@@ -50,7 +50,7 @@ proj:
 target_platform:
 - linux-aarch64
 tiledb:
-- '2.29'
+- '2.30'
 xerces_c:
 - '3.3'
 zip_keys:
